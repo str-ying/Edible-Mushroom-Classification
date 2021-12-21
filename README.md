@@ -1,5 +1,4 @@
 # Edible-Mushroom-Classification
-Binary classification of edible and inedible mushrooms based on physical features of the mushrooms
 
 The goal of this project is to develop multiple classification models and find the best performing model that can classify whether a mushroom is edible or not.
 The data was gathered by combining two datasets and then preprocessed for training. The models developed were binary classification models such as KNN and Decision Tree. 
